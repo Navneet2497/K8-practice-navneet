@@ -1,4 +1,5 @@
-$$#Pod.yaml#$$
+$$Pod.yaml$$
+ 
    81  kubectl create -f pod.yaml (create pods using yaml)
    82  kubectl get pods (to get pods )
    83  kubectl delete pod nginx-pod (to delete pod using pod name)
