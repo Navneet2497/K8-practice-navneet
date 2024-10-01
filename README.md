@@ -63,6 +63,7 @@ $$Pod.yaml$$
   104  kubectl get pods -o wide (To get the details of the pods widely)
 
   $$Replicaset$$
+  
   kubectl create pod replica_set.yaml
   
   121  vi replica_set.yaml
