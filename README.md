@@ -1,6 +1,6 @@
 $$Pod.yaml$$
- 
-   81  kubectl create -f pod.yaml (create pods using yaml)
+
+81  kubectl create -f pod.yaml (create pods using yaml)
    82  kubectl get pods (to get pods )
    83  kubectl delete pod nginx-pod (to delete pod using pod name)
    84  kubectl create -f pod.yaml
@@ -23,3 +23,4 @@ $$Pod.yaml$$
   102  kubectl run nginx --image=nginx --dry-run=client -o yaml (To dry run the pod with format yaml)
   103  kubectl get pod nginx-pod --show-labels (To see the labels in the pods)
   104  kubectl get pods -o wide (To get the details of the pods widely)
+  
